@@ -1,0 +1,51 @@
+.mainpage {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    min-width:320px;
+    max-width:760px;
+    text-align: center;
+}
+
+.header {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    min-width:320px;
+    max-width:760px;
+}
+
+.wechatList {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    min-width:320px;
+    max-width:760px;
+    text-align: left;
+}
+
+.center {
+    width: 100%;
+    text-align: left;
+}
+
+.textBig {
+    font-size: 130%;
+}
+
+.textMiddle {
+    font-size: 100%;
+}
+
+.textSmall {
+    font-size: 90%;
+}
